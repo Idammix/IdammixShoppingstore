@@ -1,0 +1,11 @@
+[
+  {
+    _id: ObjectId("64081ff6babb5e493f347301"),
+    customerId: 'ObjectId',
+    Items: [ { itemId: 'ObjectId', quantity: 'number' } ],
+    totalAmount: 'number',
+    status: 'string',
+    orderDate: 'date',
+    deliveryAddress: 'string'
+  }
+]

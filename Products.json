@@ -1,0 +1,9 @@
+[
+  {
+    _id: ObjectId("64082090babb5e493f347302"),
+    name: 'string',
+    description: 'string',
+    price: 'number',
+    categories: '[string]'
+  }
+]
